@@ -1,1 +1,4 @@
-# wakcraft2
+# Wakcraft
+
+- ./gradlew setupDecompWorkspace
+- ./gradlew runClien
