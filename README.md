@@ -1,4 +1,6 @@
 # Wakcraft
 
-- ./gradlew setupDecompWorkspace
-- ./gradlew runClien
+```sh
+./gradlew setupDecompWorkspace
+./gradlew runClien
+```
