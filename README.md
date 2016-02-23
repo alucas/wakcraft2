@@ -2,5 +2,5 @@
 
 ```sh
 ./gradlew setupDecompWorkspace
-./gradlew runClien
+./gradlew runClient
 ```
