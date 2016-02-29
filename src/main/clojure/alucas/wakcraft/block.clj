@@ -6,8 +6,9 @@
     [net.minecraft.creativetab CreativeTabs]))
 
 (defblock test-block
-  :block-name "test-block"
+  :unlocalized-name "wakcraft.Box"
   :hardness 0.5
   :step-sound Block/soundTypeStone
   :creative-tab CreativeTabs/tabBlock
-  :block-texture-name "wakcraft:grass")
+  ;:block-texture-name "wakcraft:grass"
+  )
