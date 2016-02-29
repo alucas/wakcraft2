@@ -1,15 +1,25 @@
-pom.xml
-pom.xml.asc
-*jar
-/lib/
-/classes/
-/target/
-/checkouts/
-.lein-deps-sum
-.lein-repl-history
-.lein-plugins/
-.lein-failures
-.nrepl-port
+#gradle
 .gradle
+gradle/
+gradlew
+gradlew.bat
+
+#forge
+CREDITS-fml.txt
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+README.txt
+build/
 eclipse/
+forge-1.8.9-11.15.1.1722-changelog.txt
 logs/
+run/
+src/main/java/com/
+
+#intellij
+wakcraft.iml
+wakcraft.ipr
+wakcraft.iws
