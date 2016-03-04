@@ -1,7 +1,7 @@
 (ns alucas.wakcraft.common
   (:require
     [forge-clj.registry :refer [register]]
-    [alucas.wakcraft.block :refer [test-block]]))
+    [alucas.wakcraft.blocks :refer [register-blocks]]))
 
 (defn common-init [this event]
-  (register test-block "wackcraft.test-block"))
+  (register-blocks))
